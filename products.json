@@ -1,0 +1,23 @@
+[
+  {
+    "pid": 1,
+    "pname": "oneplus",
+    "price": 189900,
+    "rating": 4.8
+
+  },
+  {
+    "pid": 4,
+    "pname": "samsungflip",
+    "price": 149999.5,
+    "rating": 3.6
+
+  },
+  {
+    "pid": 6,
+    "pname": "realmeNarzo",
+    "price": 30000,
+    "rating": 4.8
+
+  }
+]
